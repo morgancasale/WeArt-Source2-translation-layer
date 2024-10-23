@@ -1,0 +1,7044 @@
+[
+  {
+    "model": "models/lights/warehouse_light01a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },  
+  {
+    "model": "models/creatures/advisor/advisor_corpse.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_hotel_lobby_basement/entities/2_5374_grenade_spawner_trigger_2_5374_3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/distillery/vodka_glass.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_street/street_sandwich_board_001.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_footstool_001.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/electric_box_door_2_32_96_front.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a03_glass_r_rear.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/construction_yard_lift.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/interaction/anim_interact/combine_switch_arclever/combine_switch_arclever.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/ceiling_tile_001/interior_ceiling_tile_001k.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_nail.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_structures/cut_cable_b.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/xen_cabinet_group_close_a_11554_1196.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_46.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_13.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/choreo_dream/vault_dream_glass_piece.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_discoverable/newspaper_earthsurrenders.vmdl",
+    "material": "paper",
+    "prob": 90
+  },
+  {
+    "model": "models/props_debris_breakable/rubble_piece_6_breakable.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_structures/combine_walkway_small_rail.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_trashcan_001_lid.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_trains/train_door_right_double_sided.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/alyx_hideout/vhs_combine.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/antlion/antlion_worker.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "maps/a3_c17_processing_plant/entities/254_14994_17_clam_cluster_volume_254_14994_17_6.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a4_c17_zoo/entities/589_storage_entrance_bloaters_trigger_large_589_13639.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/lightswitch_2_switch.vmdl",
+    "material": "electronics",
+    "prob": 90
+  },
+  {
+    "model": "models/props/train_tracks/track_section_tie.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/vort_hideout/plastic_animal_cage_nodoor.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/interactive/car_sedan_a03_fl_door_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/van_a01_front_grille.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_long_single_2.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/lights/wall_lights_2c.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_junk/garbage_glassbottle003a.vmdl",
+    "material": "glass",
+    "prob": 90
+  },
+  {
+    "model": "models/props/alyx_hideout/tripod_handle01a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/weapons/vr_ipistol/vr_ipistol.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/foliage/tree_maple_small_01.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_27.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/distillery/firebox_1_door_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_paperclip.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/concrete_pillar_rebars_1b.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_9.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_notebook.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/quarantine/geiger_counter.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_consoles/combine_monitor_medium.vmdl",
+    "material": "electronics",
+    "prob": 90
+  },
+  {
+    "model": "models/props_lab/server_04.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_structures/vault_cable_hotel_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_a01_glass_r_rear.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/kitchen_table_2.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_21.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_light_fixture_001_breakable.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/vort_hideout/vort_alarm.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  { "model": "models/props/spam_3.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/weapons/vr_grenade/grenade.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_004_nolid.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/debris/debris_plank_broken_short_002a.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/max/ladder_sliding/ladder_sliding.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_short_single_5.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_47.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_003_door_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/chainlink_fence/chainlink_fence_gate_001_64_door_hinge.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pool_ball_5.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/combine_dropship/dropship.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/train_tracks/gravel_pieces_a3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/electric_box_door_5_32_48_front.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "maps/a4_c17_zoo/entities/1345_1648_grenade_spawner_trigger_1345_1648_3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/antlion/antlion.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "models/props/luggage/suitcase_001.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/misc_debris/debris_metal_1b.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_foliage/street_tree_003c.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_small_landscape_002a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/windows/factory_window_plywood_04_broken.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_21.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/food_container_2.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hazmat/hazmat_cart.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/hotel/hotel_interior_window01a.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_hotel_lobby_basement/entities/bloater_basement_trigger_2b_12_4408.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_trains/train_door_right.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/xen_cabinet_group_11554_260.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/dry_erase_eraser.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_1.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/combine/combine_helmet_piece_02.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_cork.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/combine/combine_barrel_stirrer.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/misc_debris/debris_metal_1e.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_22.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_locker_001a.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_11.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/misc_debris/debris_pipe_1d.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/electric_box_door_3_32_48_front.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/electric_winch/electric_winch_buttton.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_deco/interior_light_fixture_003b.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/construction_plank01g.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/jozef_hideout/cpu_cooler.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/space/gas_giant.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_structures/cut_cable_d.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/headcrab_classic/headcrab_classic_gib06.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_furniture/interior_kitchen_drawer_001a.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_38.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_structures/cut_cable_e.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/scanner/scanner.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a01_glass_windscreen.vmdl",
+    "material": "glass",
+    "prob": 90
+  },
+  {
+    "model": "models/props/construction/surveyorstand_01a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/alyx_hideout/eli_call_monitor_screens.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/alyx_hideout/dry_erase_marker_nocap.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_structures/vault_cable_bracket_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/choreo_dream/dream_plank_large_a.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_screw.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_002_door_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/foliage/thorn_bush_01a.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/railing/railing_classic_02_32x036a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/industrial_board_07.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_bumper_front.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/food/cabbage01a.vmdl",
+    "material": "food",
+    "prob": 90
+  },
+  {
+    "model": "models/combine_cabling/hotel_interior/power_door_cable_03a.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_furniture/interior_kitchen_cabinet_003_door_b.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  { "model": "models/props/jar_2.vmdl", "material": "ceramic", "prob": 100 },
+  {
+    "model": "models/props/misc_debris/debris_wood_1c.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/doors_1/door_2a_40_92.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_locker_001c.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/doors_1/door_2c_40_92.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/matchbook_a.vmdl",
+    "material": "paper",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_hotel_underground_pit/entities/2_4655_grenade_spawner_trigger_2_4655_3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_lab/elevatordoor_96_64.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/combine/combine_truck_gun01_interactable.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/manhack/manhack_body_gib_1.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_maintenance_paper_towels_004.vmdl",
+    "material": "fabric",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/combine_dropship/dropship_skybox.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_glasses.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/breakable_props/toilet_handle.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/industrial_freezer_frame.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/pipe/pipe01_str_128a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/combine_helicopter/combine_helicopter.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/van_a01_glass_back.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_headlight.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/ceiling_tile_001/interior_ceiling_tile_001o.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_structures/vault_cables_rig.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_street/street_fence_2.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/5628_2777_xen_foliage_trigger_1_5628_2777_19.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/foliage/tree_maple_02.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/weapons/vr_alyxgun/vr_alyxgun_clip.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/lights/cage_light_ceiling_1.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_001d.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/jean/train_sign_2_redlight.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "maps/a4_c17_zoo/entities/589_infest_bloater_ceiling_trigger_589_13526.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_power/power_stake_b_conduits_t.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/interaction/anim_interact/window_apartment/window_apartment.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_hotel_lobby_basement/entities/12_4051_grenade_spawner_trigger_12_4051_3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/explosive_jerrican_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/weapons/vr_crowbar/crowbar.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/characters/citizens/citizens_mals_shoe_leather_left.vmdl",
+    "material": "rubber",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_pot_large_002.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_stamp.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_toilet_brush_001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/5628_4163_clam_cluster_volume_close_a_5628_4163_55.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/xen_infestation/xen_lamp_plant.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/hat_construction.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_street/street_chair_001.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/cardboard_box_4a.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/plastic_bottle_1.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/a2_destruction/a2_beam_destruciton.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_a01_glass_windscreen.vmdl",
+    "material": "glass",
+    "prob": 90
+  },
+  {
+    "model": "models/props/rubble_piece_15.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/pliers_02c.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_debris_breakable/rubble_piece_8b_rebar_breakable_c.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_cabling/hotel_interior/power_door_cable_01a.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props_debris/concrete_debris/brick_debris_1.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/industrial_board_03.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  { "model": "models/props/button_1.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/props/interior_deco/tabletop_leatherfolder.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/pose_face_template.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/hospital_monitor_01c.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/foliage/tall_grass_04_interactive.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/creatures/antlion/antlion_ragdoll_leg.vmdl",
+    "material": "flesh",
+    "prob": 95
+  },
+  {
+    "model": "models/props/interior_furniture/interior_locker_001_door_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/jean/train_sign_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/interactive/car_sedan_a03_lr_door_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/backdrop/backdrop_building_c17_low02a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_pot_medium_002.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/a5_vault_simulations/prop_rotator.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/hotel/hotel_stairs_debris_001b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/antlion/antlion_torso_ragdoll_dead.vmdl",
+    "material": "flesh",
+    "prob": 95
+  },
+  {
+    "model": "models/architecture/backdrop/backdrop_building_c17_medium01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/wireset_port_a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/mailbox_01/mailbox_02_door_b.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/kitchen_table_1.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/headcrab_classic/headcrab_classic.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "models/props/electric_winch/electric_winch_status_red.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props_combine/combine_elevator_shaft/combine_elevator_car.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hotel/food_container_lid.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_corner_wide_type_b_1.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a01_glass_r_rear.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/hotel_elevator_beam.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/choreo_intro_interaction/curtains_choreo_rigged_slats.vmdl",
+    "material": "fabric",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_10.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a03_headlight.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_junk/wood_crate004.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hazmat/hazmat_plastic_container_1a.vmdl",
+    "material": "plastic",
+    "prob": 90
+  },
+  {
+    "model": "aperture/models/chair_swivel_02.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_consoles/vr_console_rack_1.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/screwdriver_1_a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_consoles/combine_player_button.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen/xen_web_flat_segment004.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/rainpipe/rainpipe01_str128c.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_8.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_trains/train_door_left_double_sided.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "maps/a4_c17_water_tower/entities/xen_cougher_trigger_1_2679_3719.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/xen_infestation/xen_grenade_plant.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/industrial_door_1_40_92_white_broken.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/fan_01_a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/foliage/dried_grass_01_interactive.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_22.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_002_drawer.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/industrial_wall_anchor_03.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/misc_debris/debris_pipe_1e.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/tire_001.vmdl",
+    "material": "rubber",
+    "prob": 85
+  },
+  {
+    "model": "models/props/misc_debris/debris_small_metal_1c.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/cinder_block_elt_2.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_phone_001a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_consoles/vr_console_interface_fingers.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/hotel_cocktailshaker.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/zoo/tiger_toy.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/distillery/combine_antlion_plug.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/c17/headcrab_dinner.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_barrel_arm_winch/combine_barrel_arm_winch.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/ceiling_tile_001/interior_ceiling_tile_001e.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_signage_hotel_maintenance.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/ceiling_tile_001/interior_ceiling_tile_frame_001a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/debris/debris_plank_broken_long_002b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/hotel_doorhanger.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/train_tracks/buffer02.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/cardboard_box_4.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/rubble_piece_11.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/food_container_2_nolid.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_cash_register_001_drawer.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/cardboard_box_2.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_005_door_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  { "model": "models/props/pot_1.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/lighting/flourescent_light_3_bulbs_bare.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  { "model": "models/props/pan_1.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/props/brick_shortest_single_8.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props/cigarette_pack_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interactive/file_cabinet_a_interactive_drawer_2.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/foliage/weed_detail_002.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/props_lab/monitor02_screen.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_short_single_7.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_pipe.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_cabling/station_street/shield_cable_2.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_18.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/van_a01_glass_left_mid.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a01_trunk.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/antlion/antlion_wings_ragdoll_stunt_right.vmdl",
+    "material": "flesh",
+    "prob": 95
+  },
+  {
+    "model": "maps/a3_distillery/entities/5628_4163_clam_cluster_volume_close_b_5628_4163_57.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/industrial_vent_cover001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/elevator/apartment_elevator01b_door.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/interaction/anim_interact/combine_switch_pulltwist_alt/combine_switch_pulltwist_alt.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_power/power_stake_b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_17.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_c17/pushbroom.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_foliage/foliage_weed_001b.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interactive/dumpster01a_lid.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/cigarette_pack_3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_002d.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_papercup.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/zoo/tiger_standee.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/brick_broken_single_8.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_7.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_small_landscape_001a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/luggage/suitcase_006.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_small_square_002a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_consoles/combine_monitor_large_off.vmdl",
+    "material": "electronics",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pool_ball_4.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/washing_detergent_bottle001nolabel.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_floor_lamp_001b.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_consoles/combine_lever_switch.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/interactive/car_sedan_a01_lf_door_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/interactive/car_hatchback_b01_l_door_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_toiletroll_005.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/backdrop/backdrop_chimney02.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_lab/elevatordoor.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_trains/passenger_train_lcoach_lod0.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/vehicles/train_boxcar_lootable_door.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_foliage/foliage_grass_weed_cluster_001_interactive.vmdl",
+    "material": "organic",
+    "prob": 95
+  },
+  {
+    "model": "models/props/alyx_hideout/vhs_2.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/foliage/sumac_01.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_37.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a01_headlight.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/concrete_rubble_chunk_03.vmdl",
+    "material": "concrete",
+    "prob": 90
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_23.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/large_pot_body_2.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/electric_box_door_2_64_96_side_dynamic.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/brick_long_single_3.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props/debris/debris_plank_broken_short_002b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/ceiling_tile_001/ceiling_tile_001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_chairs/couch_cushion_side.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_deco_poster_card_001a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/lightswitch_3_switch.vmdl",
+    "material": "electronics",
+    "prob": 90
+  },
+  {
+    "model": "models/props/electric_winch/electric_winch_status_yellow.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/industrial/factory_fire_sign001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/5628_2777_xen_foliage_trigger_2_5628_2777_99.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/cement_bag.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_toothbrush.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_junk/wood_crate004_lid.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_29.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_hotel_lobby_basement/entities/bloater_basement_trigger_2_12_3999.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/luggage/suitcase_002.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_002_door_b.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_broken_single_11.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  { "model": "models/props/can_3.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/props/quarantine/combine_sign_cleanup_open.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/pipe/pipe_metal_01.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_holepuncher.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/antlion/antlion_ragdoll_leg_dead.vmdl",
+    "material": "flesh",
+    "prob": 95
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_soap_001b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/11578_5128_xen_hc_hallway_crawlspace_group_close_b_11578_5128_21.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/c17/antenna01a_branch.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/hospital_surgical_tool_01e.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_23.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/jackhammer_01a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/foliage/viburnum_davidii_bush_03.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_cabling/hotel_street/toner_power_cable.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_002_drawer_b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/debris/debris_joist_broken_001a_16.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/airduct/airduct01_32x16b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_lab/server_03.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_barrel_arm/combine_barrel_arm_bridge.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/pose_edge_template.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/foliage/weed_01.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_deco/cigarette_001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  { "model": "models/props/can_4.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/props/interior_deco/tabletop_pills_foil.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_electricaltape.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/11460_4684_xen_foliage_trigger_1_11460_4684_19.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/11632_2801_clam_cluster_volume_close_11632_2801_30.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_15.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_subway/scenes/monitor_hanging02.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  { "model": "models/props/can_6.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/props_debris_breakable/rubble_piece_3_breakable.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/foliage/sage_bush_02.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/alyx_hideout/book_kleiner.vmdl",
+    "material": "paper",
+    "prob": 85
+  },
+  {
+    "model": "models/weapons/vr_shotgun/vr_flip_shotgun_magazine_shells.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_street/street_gate_1_lock.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/props_subway/scenes/turnstyle_b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interactive/washing_machine01a_door.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_40.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_deco_poster_card_001d.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/interaction/anim_interact/doorhandle/doorhandle_flipped.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/luggage/suitcase_005b.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a01_tire.vmdl",
+    "material": "rubber",
+    "prob": 85
+  },
+  {
+    "model": "models/items/crafting_metal/resin_puck02.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/industrial_door_3_40_92_white.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_crate_open.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/alyx_hideout/vhs_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_consoles/combine_breenscreen_fill_introworld1.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_toiletroll_004.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_trains/combine_trainset.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_hotel_lobby_basement/entities/bloater_basement_trigger_1_12_3930.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_calculator.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_short_single_4.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/characters/workers/worker_m_helmet.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_debris_breakable/rubble_piece_9_breakable.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_36.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/interactive/van_a01_left_front_door_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/washing_detergent_bottle001.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_50.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_quarantine_door/combine_quarantine_door.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_26.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_bugspray_broken.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/choreo_vortigaunt/interior_industrial_table_002_choreo.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_battery/combine_battery_post.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_foliage/foliage_weed_002a.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "maps/a4_c17_zoo/entities/589_infest_bloater_cupboard_trigger_large_589_13538.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_004_nolid_c.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/industrial_door_2_40_92_white.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/portapotty_door.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/surveyorstand_01b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_35.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/zoo/vet_cage_square.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_junk/garbage_bag_1_rigged.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/lighting/flourescent_light_housing_1_enclosed.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/cardboard_box_1.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/combine/combine_helmet_piece_03.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  { "model": "models/props/can_1.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/creatures/rat/rat.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_41.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_wall/combine_wall01a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/industrial_door_1_40_92_blue_temp.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_junk/metalbucket01a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/hammer_01a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/propane_canister_001/explosive_propane_canister_001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hotel/rotten_apple_3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/lights/light_1_lit.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pillow_001.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/foliage/weed_detail_001.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/props/misc_debris/debris_metal_1c.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_tankeryard_door/combine_tankeryard_door.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_battery/combine_battery_hologram.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/van_a01_front_bumper.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/trapdoor_lock001.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_structures/cable_explosive_bolt_energy.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/misc_debris/debris_pipe_1b.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/combine/combine_truck_gun01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_consoles/vr_console_interface_fingers_r.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_consoles/combine_memory_tank_3.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/zombie_classic/background_citizen_female.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/tenements_windows/tenements_window_2_c.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_pen01.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a4_c17_zoo/entities/589_infest_bloater_cupboard_trigger_589_9879.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a4_c17_zoo/entities/589_xen_foliage_trigger_3_close_589_13479.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/foliage/sumac_02.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_001_doorsquare_a_nohandle.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/rubble_piece_10.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/props/debris/debris_plank_broken_long_002a.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/11460_4507_clam_cluster_volume_close_b_11460_4507_60.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/industrial_hook_3_hook.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/stove_1_knob.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/construction/shovel_02a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_junk/glassbottle01a.vmdl",
+    "material": "glass",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_deco/tea_saucer_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_bumper_rear.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_building_eater/combine_building_cable_model.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/kettle_01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/mailbox_01/mailbox_01_door.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a03_tire.vmdl",
+    "material": "rubber",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/strider/strider_parking_garage_recover_cloth.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/truck_a01_glass_corner_window_left.vmdl",
+    "material": "glass",
+    "prob": 90
+  },
+  {
+    "model": "models/props/supplycrate/mesh/supplycrate01_bigpiece11.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/supplycrate/mesh/supplycrate01_bigpiece05.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/characters/gman/gman.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/11578_5128_xen_hc_hallway_crawlspace_group_close_c_11578_5128_31.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_glass_r_rear.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/foliage/weed_02.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/props_combine/combine_consoles/combine_monitor_large.vmdl",
+    "material": "electronics",
+    "prob": 90
+  },
+  {
+    "model": "models/props_subway/sign_01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_subway/scenes/newspaper_single_1.vmdl",
+    "material": "paper",
+    "prob": 90
+  },
+  {
+    "model": "models/props_vehicles/truck_a01_glass_door_window_left.vmdl",
+    "material": "glass",
+    "prob": 90
+  },
+  {
+    "model": "models/combine_turrets/floor_turret.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_toilet_brush_001_base.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/characters/hazmat_worker/hazmat_worker.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/train_tracks/gravel_pieces_b2.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_5.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_glass.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_grille_frrame.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_chairs/interior_chair_002.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a01_glass_left_door.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_3.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_medium_landscape_001a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_subway/scenes/speaker_control_room01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_debris_breakable/rubble_piece_3_rebar_breakable.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  { "model": "models/props/can_5.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/props_silo/tire1.vmdl",
+    "material": "rubber",
+    "prob": 85
+  },
+  {
+    "model": "models/props_c17/oildrum001_explosive.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_subway/scenes/monitor_bank01b_screens.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_bathroom_tap_handle_001b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_24.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_street/street_statue_001_head.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/a4_destruction/a4_set_c.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_4.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_gluebottle.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/large_pot_1_lid.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_001_drawer_b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/11632_2801_clam_cluster_volume_11632_2801_6.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_corkscrew.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/alyx_hideout/paint_can.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/luggage/suitcase_002b.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_train/combine_train_exterior_door01a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/bloater_crawlspace_trigger_11578_5192.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/alyx_hideout/refuge_monitor_button.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/zoo/exhibition_sign.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_trains/trainyard_levers_handle.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_c17/mailbox_01/mailbox_01_open.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_14.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/wireset_port_b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/xen_infestation/zombie_bloater.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/foliage/grass_detail_tall_002.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/characters/combine_soldier_heavy/combine_soldier_heavy.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a03_glass_back.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/fan_industrial_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/junk/figurine_scout.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_vault_interior/advisor_candelabra_r.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/traffic_cone.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/silverware_knife_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/industrial_freezer_door_hook.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_lab/server_09.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/electric_winch/electric_winch_cable.vmdl",
+    "material": "metal",
+    "prob": 95
+  },
+  {
+    "model": "models/props/interior_deco/interior_deco_poster_notice_001c.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/van_a01_glass_left_back.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/distillery/distillery_trash_compactor_doors.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_003_door_b.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_hairbrush.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/vort_hideout/corrugated_metal_sheet_small.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_subway/scenes/desk_lever.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/cardboard_box_1_small.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/cigarette_002.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_scotchtape.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_junk/pot_clay_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/fridge_1a_door2.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/fences/fence_2_door_64_128.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/combine_cabling/station_street/shield_cable_1.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/van_a01_glass_right_back.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/breakable_props/toilet_cistern_open.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_48.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_bench_001d.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_chairs/interior_chair_003.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_power/combine_power_stake_b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/foliage/grass_detail_tall_001.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_furniture/interior_locker_001_door_b.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_structures/combine_vault.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_consoles/combine_memory_tank_4.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_wasteland/light_spotlight02_lamp.vmdl",
+    "material": "electronics",
+    "prob": 90
+  },
+  {
+    "model": "models/props/brick_broken_single_1.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/strider/combine_strider.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_10.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_5.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_glass_right_door.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_32.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/weapons/vr_tripmine/tripmine_aperture.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/hospital_supplycart_04d.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/misc_debris/debris_wood_1b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/cardboard_box_7.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/wireset_attachment_looseends.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_subway/scenes/monitor_bank01_screens.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/characters/combine_soldier_captain/combine_captain.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/c17/signage_generic_caution.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_maintenance_paper_towels_005.vmdl",
+    "material": "fabric",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_fence/combine_doorway_fence.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/story/maintenance/est_note_maintenance_2.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/xen_cabinet_group_close_b_11554_1198.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/breakable_props/toilet_seat.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/cardboard_box_6.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_mini_light_spot_01.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/jozef_hideout/gravity_charger.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/weapons/vr_alyxhealth/vr_health_pen.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/xen/xen_foam_breackable_001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_street/street_fence_2_nosign.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hazmat/respirator_01b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_toothpaste.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/zombie_classic/items/zombie_act_busy_door_pushthrough_doors.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a03_bumper_front.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/interactive/truck_a01_door_right_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/headcrab_black/headcrab_black.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_001_doorlarge_b.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/zombie_classic/zombie_hanging.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_001_doorsquare_b_nohandle.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_small_landscape_002a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/industrial_hook_2.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_debris_breakable/concrete_broken_chunk02a_breakable.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "material/models/architecture/distillery/distillery_elevator_door_lower.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_ceiling_lamp_001_wire.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_foliage/street_tree_003b.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/props_fortifications/traffic_barrier001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/headcrab_classic/headcrab_classic_tunnels_prop.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "models/interaction/anim_interact/combine_switch_slide/combine_switch_slide.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/basestation_microphone_physical001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_floor_lamp_001b_shade.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_20.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/cereal_box_empty_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/xen_infestation_v2/xen_v2_clam.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_signage_hotel_stairwell.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hazmat/hazmat_plastic_container_1.vmdl",
+    "material": "plastic",
+    "prob": 90
+  },
+  {
+    "model": "models/props/plastic_bottle_4.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/electric_winch/electric_winch_progress_off.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/misc_debris/wood_3e.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pool_ball_2.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_vault_interior/advisor_candelabra_l.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_barrier/combine_grate_blade.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_radiation_first_aid_kit.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_c17_processing_plant/entities/254_14994_17_clam_cluster_volume_close_254_14994_17_34.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_plant_palm_large_dead_ragdoll.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/concrete_block_004.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_cabling/hotel_lobby/basement_power_cable_2.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/train_tracks/gravel_pieces_a1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_structures/vault_cables_simple_rig.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_glass_windscreen.vmdl",
+    "material": "glass",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_small_square_002a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/combine/combine_truck_gun_arm01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_subway/scenes/billboard_advert02.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_papercup_broken.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/weapons/vr_shotgun/vr_flip_shotgun_magazine_tube.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/backdrop/backdrop_building_destroyed_chunk03.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/rubble_piece_14.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/wood_beams/wood_beam01_4x128a.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/large_pot_body_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/breakable_props/brick_hollowclay_2_broken.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props/alyx_hideout/button_plate.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/chair_fabric.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/broken_board_4.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/hotel_barstool01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pool_ball_15.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/11460_4507_clam_cluster_volume_close_a_11460_4507_52.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/zoo/tiger_mask.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hazmat/sawhorse1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/breakable_props/brick_hollowclay_pallet_04.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props/supplycrate/supplycrate_01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/alyx_hideout/vhs_3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_lighter.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/food_container_1_nolid.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/cargo_big_bag_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_small_square_003a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/construction/pliers_02b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/watering_can_01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/breakable_props/table_lamp.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_broken_single_2.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/pigeon/pigeon_simple.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_stapler.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/biscuits_box_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_junk/wood_crate003.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/manhack/manhack_wings_gib_0.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props_bikes/modo/bike_frame2_debris.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/train_tracks/gravel_pieces_a2.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/sandbags/sandbag_single_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/distillery/freezer_cable_02.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/debris/debris_joist_broken_001b_32.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/eli_manor/antique_globe01a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_junk/trashbin02_open.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/distillery/battery_cable_01.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/bricks/brick_group_small_a.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_6.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/interactive/van_a01_right_front_door_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_large_landscape_002a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_plant_palm_leaf_dead_verysmall.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_kitchen_cabinet_002_door_b.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_43.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_plant_palm_medium_dead_ragdoll.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/weapons/vr_xen_grenade/vr_xen_grenade.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_toiletroll_003.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/van_a01_tailgate.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_structures/cut_cable_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_deco_poster_card_001f.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/hoist_control.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/breakable_props/toilet_bowl.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/brick_long_single_7.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/characters/dog/dog.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/brick_broken_single_9.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/distillery/antlion_plug_cable.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_lamp_wall_sconce_001_bulb.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen/xen_web_flat_segment005.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_vault_interior/combine_iso_cage.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/generatortrailer01_wheel_rim.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/weapons/vr_shotgun/vr_flip_shotgun_body.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/broken_wood_beam_4.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/industrial_wall_anchor_07.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/5628_4163_clam_cluster_volume_close_c_5628_4163_81.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/misc_debris/debris_pipe_1c.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_junk/wood_crate004_open.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_table_lamp_001.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/windows/factory_window_plywood_02_broken.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/health_charger/combine_health_charger_internals.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/manhack/manhack_wings_gib_5.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_chairs/interior_chair_001.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_001_door_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hazmat/sign_bio_warning1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/truck_a01_glass_door_window_right.vmdl",
+    "material": "glass",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_furniture/interior_kitchen_cabinet_002_door_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/pliers_02a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/metal_box_1.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/industrial_wood_pallet_02.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_crate_closed.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_large_square_003a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_pen04.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/tire001.vmdl",
+    "material": "rubber",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_hotel_lobby_basement/entities/bloater_hall_trigger_1_750.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/parking/elevator_freight01_door_upper.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/interaction/anim_interact/radio/radioset_antenna_interactable.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/citadel/citadel_under_construction.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/bucket_1_body.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/doors_1/door_2b_40_92.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_hotel_interior_rooftop/entities/bloater_closet_trigger_1_7_5296.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/playground_ticktacktoe_block01a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hazmat/hazmat_crate_lid.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/doors_1/door_1c_40_92.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_small_square_001a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/elevator/apartment_elevator01a_door.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_002c.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_hotel_lobby_basement/entities/bloater_hall_collapse_trigger_1_2_5325.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/airduct/airduct01_32x16c.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interactive/file_cabinet_a_interactive_drawer_3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/alyx_hideout/video_camera01a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/hospital_supplycart_04c.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/distillery/pressure_gauge_nopipe.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_light_fixture_002_wire.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  { "model": "models/player.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/creatures/zombie_classic/background_citizen_male_01.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_30.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/items/crafting_metal/resin_puck05.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_short_single_2.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a01_grille.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/vort_hideout/water_bowl.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/brick_short_single_3.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props_junk/cardboardbox_old_model.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_junk/wood_crate002a.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/fridge_1a_door.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/supplycrate/mesh/supplycrate01_bigpiece02.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_medium_square_001a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/broken_wood_beam_2.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hazmat/flag_plastic_marker1.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/cardboard_box_5.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_interiors/book_1.vmdl",
+    "material": "paper",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_lamp_wall_sconce_001.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_2.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/distillery/warehouse_door01a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_junk/rock001a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/foliage/sword_fern_02.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/props_bikes/modo/bike_frame1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/headcrab_classic/headcrab_classic_gib04.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "models/props_interiors/book_2.vmdl",
+    "material": "paper",
+    "prob": 85
+  },
+  {
+    "model": "models/props/ration_bar.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_table_lamp_001b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/backdrop/building_project_01b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/construction/pallet_jack_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/interactive/car_sedan_a01_rf_door_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_004_nolid_d.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_floppydisk.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_004d.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/lighting/flourescent_light_2_bulbs_bare.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/van_a01_glass_right_door.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/foliage/viburnum_davidii_bush_02.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/cigarette_004.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/beer_bottle_1.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/interaction/anim_interact/twohandlift/twohandlift.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/alyx_hideout/book_cover.vmdl",
+    "material": "paper",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_cabling/hotel_interior/power_door_cable_04a.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/industrial/industrial_board_04.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen/xen_coral_01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_foliage/street_tree_003a.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/props_subway/scenes/billboard_advert01.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/broken_wood_beam_6.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_plant_palm_verysmall_dead.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/characters/combine_grunt/combine_grunt_hanging.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_hotel_lobby_basement/entities/bloater_bathroom_trigger_2_5381.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_cup_mug_001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hotel/hotel_elevator_mounting_plate.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/manhack/manhack_blades_gib.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props_bikes/bike_ragdoll.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/stove_1_lid.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/zoo/medicine_bottle_2.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_plunger_001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/characters/combine_soldier_captain/combine_captain_choreo.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_structures/cut_cable_c.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/pigeon/pigeon_prop.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a01_glass_l_rear.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_tire.vmdl",
+    "material": "rubber",
+    "prob": 85
+  },
+  {
+    "model": "models/props_debris_breakable/concrete_broken_chunk01a_breakable.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_consoles/combine_breenscreen_construction_introworld2.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/alyx_hideout/alyxdoor_lock.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_sleeping_bag_001c.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_comb.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/junk/plasticbucket001.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/truck_a01_glass_windscreen.vmdl",
+    "material": "glass",
+    "prob": 90
+  },
+  {
+    "model": "models/props_combine/combine_structures/combine_vault_act4_cables.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/coffee_box.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_004_door_b.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/bucket_2_body.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/silverware_fork_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_tailgate.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a03_glass_right_door.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_pen03.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_004b.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/weapons/vr_shotgun/shell_hand.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_radiation_first_aid_kit_ragdoll.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_foliage/urban_tree01.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/a4_destruction/a4_vault_crash_fg_building_dest.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_locker_001b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tea_pot_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/distillery/distillery_window_large_01a.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_hotel_interior_rooftop/entities/bloater_hall_collapse_trigger_1_7_5325.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/lamppost03a_off.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/bleach_bottle001_nolabel.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_c17/hospital_surgical_stand_01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_locker_001_door_d.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/truck_a01_glass_corner_window_right.vmdl",
+    "material": "glass",
+    "prob": 90
+  },
+  {
+    "model": "models/props_junk/cardboard_box004a.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_a01_glass_l_rear.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/van_a01_right_rear_door.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/van_a01_glass_left_door.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_hallway/combine_hall_door_02.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_long_single_1.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_short_single_8.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_15.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/alyx_hideout/gpu.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/weapons/vr_grenade/grenade_armed_choreo.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/alyx_hideout/radio01a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_chairs/wooden_chair_001.vmdl",
+    "material": "wood",
+    "prob": 90
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_glass_left_door.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_hotel_interior_rooftop/entities/infest_bloater1_trigger_351_3961.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_12.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hazmat/hazmat_worker_glove.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hotel/rotten_apple_2.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/misc_debris/debris_metal_1a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/collectables/rocket_dog/rocket_dog.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/jozef_hideout/security_camera.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/debris/hotel_headcrab_boards_intact.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_001_doorsquare_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_005_drawer.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen/xen_villi_medium.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_toiletroll_002.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_39.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/luggage/suitcase_005.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/spawn_closet_toilet/spawn_closet_toilet_seat.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_001_drawer.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/interaction/anim_interact/combine_switch_pulltwist/combine_switch_pulltwist.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_8.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_alarm_clock.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/zombie_classic/zombie_classic.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/weapons/vr_ipistol/capsule_power_cell.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_warehouse/helicopter_choreo.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hotel/rotten_apple_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/choreo_office/gnome.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/weapons/vr_tripmine/tripmine.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/hospital_surgical_tool_01d.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  { "model": "models/props/pan_3.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/props_bikes/bike_frame.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/interaction/anim_interact/hand_crank_wheel/hand_crank_wheel.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/electric_box_door_1_32_48_front.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_deco/interior_signage_hotel_arrow_num_3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/cinder_block_elt_9.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_radiation_first_aid_kit_open.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_005_drawer_b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_shelving_001_b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/distillery/padlocked_door_hardware_hasp.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/train_tracks/gravel_pieces_b1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_pencase01.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/pipe/pipe01_str_32a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/characters/scientist/scientist.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_floor_lamp_001.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/foliage/sumac_04.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "maps/a4_c17_zoo/entities/exhibit_c_bloater_trigger_01_1345_1260.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_28.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_fence/combine_fence01b_128.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/cat/anim_parent_helper_cube.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/construction_plank01f.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/bent_nail_01_forbreakboards.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_junk/wood_crate001a_covered.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/misc_debris/debris_pipe_1g.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_power/power_stake_b_conduits_b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_0.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/combine/combine_helmet_piece_01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/distillery/cellar_shutter_gate.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/van_a01_headlight.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/backdrop/building_project_01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/doors_1/door_1d_40_92.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/breakable_props/tv_tube_15in_f06_0.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/interactive/car_sedan_a01_rr_door_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combinetower001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_001_door_b.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/junk/plastic_crate_02.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/advisor/advisor_end.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_short_single_6.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/vortigaunt/uncombined_vortigaunt.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props_c17/playground_ticktacktoe_post01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/junk/matchbox.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/characters/metrocop/metrocop_choreo.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_signage_hotel_staffroom.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_table_lamp_001b_shade.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/train_tracks/gravel_pieces_c3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/strider_collision_proxy_parking_garage.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/sugar_bowl.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a4_c17_zoo/entities/589_storage_entrance_bloaters_trigger_589_13635.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/combine_cabling/hotel_lobby/basement_power_cable_1.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_trainstation/train_boxcar.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/pipe_door/pipe_door.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/sardine_box_empty_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/alyx_hideout/alyxdoor_door.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_long_single_8.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_fence/combine_fence01a_128.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interactive/vort_wheel.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/11578_5128_clam_cluster_volume_11578_5128_6.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/lights/cage_light_wall_1_lit.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_17.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/11632_2800_clam_cluster_volume_close_11632_2800_16.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/combine_cabling/station_street/toner_cable_1.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_004_nolid_b.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_20.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/hoist_control_button_down.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_debris/concrete_debris/brick_debris_2.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props/debris/debris_plank_broken_medium_002a.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/11478_6497_clam_cluster_volume_11478_6497_6.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_25.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interactive/washing_machine01a_drum.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/interaction/anim_interact/doorhandle/doorhandle.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_lab/server_01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/plastic_dishpan.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/scanner/scanner_cit_tech.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/zoo/bird_flyaway.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/distillery/battery_cable_02.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/distillery/ladder_larry.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "maps/a4_c17_zoo/entities/589_xen_foliage_trigger_3_589_10048.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/electric_box_door_4_32_48_front.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/xen/xen_barrel_mush_floor03.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_mouse.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/food/bread03a.vmdl",
+    "material": "food",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interactive/file_cabinet_a_interactive_drawer_4.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_debris_breakable/rubble_piece_8b_rebar_breakable_a.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/props/luggage/suitcase_004.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pool_ball_3.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/debris/debris_plank_broken_medium_002b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_deco_poster_notice_001g.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pool_ball_6.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_consoles/vr_console_merged_rack.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_barrier/combine_tri_barrier_root_r.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/alyx_hideout/can_square.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_4.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_cabling/hotel_lobby/toner_power_cable_3.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_interiors/citizens_female_upper_cotton_jacket_hanging.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_19.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_004.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/ceiling_tile_001/interior_ceiling_tile_frame_001k.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/mailbox_01/mailbox_02_door_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/electric_box_door_handle_01a.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/crackers_box_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/hospital_surgical_tool_01c.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  { "model": "models/props/pan_2.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_11.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/zoo/mannequin_zoo.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pillow_001b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/broken_wood_beam_1.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/11460_4507_clam_cluster_volume_b_11460_4507_58.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/industrial_freezer_door.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/ceiling_tile_001/interior_ceiling_tile_frame_001f.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/zombie_blind/zombie_blind.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/milk_carton_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/broken_wood_beam_5.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/health_charger/health_vial.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/11921_17_clam_cluster_volume_11921_17_6.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/fan_02_a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_signage_hotel_arrow_num_4.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_consoles/combine_player_button_case.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_signs/scenes/billboard02b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/health_charger/combine_health_charger_vr_pad.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hazmat/hazmat_crate.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/broken_wall_segments/concrete_broken_chunk02a.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_deco_poster_002a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_medium_square_003a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/cardboard_box_5a.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_lab/server_05.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/construction/portapotty_open_interactive.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/breakable_props/tv_tube_25in_f44_0.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_small_square_003a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/large_metal_box.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hazmat/hazmat_chlorine_tank_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_cd.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_45.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  { "model": "models/props/paper_1.vmdl", "material": "paper", "prob": 85 },
+  {
+    "model": "maps/a3_distillery/entities/5628_4163_clam_cluster_volume_5628_4163_6.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/interaction/anim_interact/frankenswitch/frankenswitch.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_19.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/characters/citizens/citizen_male_vault.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/brick_short_single_1.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_12.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_9.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/broken_wall_segments/concrete_broken_chunk01a.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/lighting/flourescent_light_chain_16.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/breakable_props/bottle_o_gin.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pool_ball_0.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/rubble_piece_13.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/props/misc_debris/debris_wood_1d.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_bugspray.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_lab/server_01_c.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a03_glass_left_door.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/interactive/car_sedan_a03_fr_door_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/industrial_board_01.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/plastic_bottle_3.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_ceiling_lamp_001.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen/xen_floater05.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/headcrab_guts/headcrab_gland.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/hotel_ashtray.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/story/laundryroom/polaroid.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/quarantine/combine_sign_cleanup_closed.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/xen_infestation/xen_tentacle.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_structures/cable_shield_exploder.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_pencase02.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/breakable_props/brick_hollowclay_pallet_05.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/breakable_props/dinner_plate.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/rainpipe/rainpipe01_str128d.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hazmat/hazmat_worker_boot.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_18.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/breakable_props/toilet_cistern.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/interaction/anim_interact/twohandlift/twohandlift_no_move_singlehand.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/items/crafting_metal/resin_puck01.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_cabling/hotel_interior/power_door_cable_01b.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/creatures/cat/cat_rig.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/headcrab_armored/headcrab_armored.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_24.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/lights/cage_light_ceiling_1_lit.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_ashtray_001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_light_fixture_002.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/concrete_rubble_chunk_20.vmdl",
+    "material": "concrete",
+    "prob": 90
+  },
+  {
+    "model": "models/props_debris_breakable/rubble_piece_8b_rebar_breakable_b.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/props/electrical_panel_2_door.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_a01_bumper_rear.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_junk/garbage_bag_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/combine_cabling/hotel_lobby/toner_power_cable_2.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/oldstyle_table_2.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/jean/train_sign_2.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/junk/plasticcrate001.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/foliage/sumac_001.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/pigeon/crow_simple.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/junk/wine_bottle.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_paintbrush.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_floor_lamp_001b_bulb.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_001.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_hotel_lobby_basement/entities/bloater_hall_trigger_2_859.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_signage_hotel_employees.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/a4_destruction/a4_platform_gangway.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/cinder_block_elt_8.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/headcrab_classic/headcrab_tunnels_prop.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_battery.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_c17/hospital_surgical_tool_01b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_doors/combine_door_sm01.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/distillery/bag_bulk_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/cardboard_box_8.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/parking/elevator_freight01_door_lower.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pool_ball_7.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/jean/train_sign_2c_redlight.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen/xen_coralear04.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/headcrab_classic/headcrab_classic_gib02.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "models/breakable_props/toilet_cistern_lid.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/11632_2800_clam_cluster_volume_11632_2800_6.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_trains/train_door_left.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/combine/combine_truck_base01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_debris/concrete_debris/brick_debris_3.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  { "model": "models/props/spam_1.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_33.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hook_ceiling_1f.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/11478_6497_clam_cluster_volume_close_a_11478_6497_41.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/antlion/antlion_wings_ragdoll_stunt_left.vmdl",
+    "material": "flesh",
+    "prob": 95
+  },
+  {
+    "model": "models/props/zoo/medicine_bottle.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/broken_board_3.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_discoverable/newspaper_blackmesa.vmdl",
+    "material": "paper",
+    "prob": 90
+  },
+  {
+    "model": "models/props_combine/combine_battery/combine_battery_large.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a01_glass_back.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/beer_bottle_1_empty.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_cabling/hotel_interior/power_door_cable_01c.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "maps/a4_c17_zoo/entities/1345_1432_grenade_spawner_trigger_1345_1432_3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interactive/file_cabinet_a_interactive_drawer_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/xen/xen_fungus_seedling02.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/parking/elevator_freight01_base.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/health_charger/combine_health_charger_vr.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "material/models/architecture/distillery/distillery_elevator_door_upper.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/controller/vr_hmd.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/butter_carton_empty_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/11478_6338_xen_foliage_trigger_1_11478_6338_19.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/distillery/padlocked_door_hardware_staple.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/cardboard_box_3.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/destruction_objects/tile_roof_footstep.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/bent_nail_02_forbreakboards.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_004_lid.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/ceiling_tile_001/interior_ceiling_tile_001a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/characters/combine_grunt/combine_grunt.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/11578_5128_xen_hc_hallway_crawlspace_group_close_a_11578_5128_14.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_bikes/modo/bike_frame1_debris.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_large_square_001a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/industrial_door_1_40_92_temp.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/zombie_classic/zombie_jacket.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props_subway/scenes/desk_lever02.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/headcrab_reviver/headcrab_reviver.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_medium_landscape_003a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/choreo_office/headset_prop.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_002.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/quarantine/portable_lab.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/chainlink_fence/chainlink_coup_gate.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/ceiling_tile_001/interior_ceiling_tile_support_001b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/antlion/antlion_wings_ragdoll_dead_right.vmdl",
+    "material": "flesh",
+    "prob": 95
+  },
+  {
+    "model": "models/props/xen/xen_flat_blob01_barrel_mush01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/combine/combine_truck_gun_platform01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hotel/hotel_luggagetag.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_nut.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/electric_winch/electric_winch_spool.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props_junk/wood_spool01.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/combine/combine_van_ride_steering_wheel.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/misc_debris/debris_metal_1f.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/alyx_hideout/clipboard.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/ceiling_tile_001/interior_ceiling_tile_001b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/combine_hallway/combine_hall_door_02_closed.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen/xen_strand_anchor005.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/grate/grate_64_64.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/industrial_freezer_frame_nohandle.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_pot_small_001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/industrial_chemical_barrel_02.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_medium_landscape_002a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_light_fixture_005.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_trashcan_001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_junk/wheebarrow01a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/lighting/flourescent_light_1_bulbs_bare.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_hood.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/padlock001a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/pigeon/pigeon.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_grille.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/alyx_hideout/refuge_monitor_dial.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_hotel_interior_rooftop/entities/351_4241_grenade_spawner_trigger_351_4241_3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/combine/combine_truck_gun01_mechanical.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_subway/scenes/barrier_fence64.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_6.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_maintenance_paper_towels_002.vmdl",
+    "material": "fabric",
+    "prob": 85
+  },
+  {
+    "model": "models/props/breenzine.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_kitchen_cabinet_003_door_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/headcrab_classic/headcrab_classic_gib03.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "models/breakable_props/brick_hollowclay_1_broken.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props/distillery/cardboard_box_4a_bottle.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_discoverable/floppy_disk_download_internet.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_signage_hotel_arrow_num_0.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/scissor_lift/scissor_lift.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_street/street_wall_1_top_96_a.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_cabling/hotel_interior/power_door_cable_04b.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props_combine/combine_vort_pod/combine_vort_pod.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/cinder_block_elt_10.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/hospital_supplycart_04b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hotel/hotel_elevator_cable_tile.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  { "model": "models/props/spam_2.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/props_combine/combine_battery/combine_alt_switch_box.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/industrial_light_scaffolding_01_walkway_01.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hazmat/respirator_01a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_7.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_chairs/couch_cushion_back.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_interiors/waterbottle_broken.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/a4_c17_water_tower/hanging_barricade_silo.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/ceiling_tile_001/interior_ceiling_tile_frame_001b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_cup_metal_001.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/button_1_pusher.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/interactive/car_sedan_a01_lr_door_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/zoo/zoo_info_stand.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/interactive/car_hatchback_b01_r_door_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/5628_4163_clam_cluster_volume_c_5628_4163_70.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/jozef_hideout/gravity_charger_secondary.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_44.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/rubble_piece_8b_rebar.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/interactive/car_sedan_a03_rr_door_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_rulertriangle.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_plant_palm_leaf_dead_medium.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_deco_poster_card_001b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_c17_processing_plant/entities/shack_xen_interaction_trigger_1_254_2183_1852.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_light001a.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/ceiling_tile_001/interior_ceiling_tile_frame_001e.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_pot_small_002.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/playground_carousel01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_medium_square_002a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_scissors.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_cabling/hotel_lobby/toner_power_cable_1.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/airduct/airduct01_vent_32x16a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_42.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/jean/train_sign_light.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/breakable_props/toilet_seat_nocover.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/brick_shortest_single_1.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props_debris/concrete_debris/brick_debris_5.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_corner_wide_type_c_7.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props/industrial_door_1_40_92_white_temp.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_light_fixture_001.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_light002a.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/brick_shortest_single_4.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props_industrial/hideout_doorway.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/screwdriver_1_b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_26.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/industrial_metal_awning_framework_02.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/train_tracks/gravel_pieces_b3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/11921_17_clam_cluster_volume_close_11921_17_34.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hotel/hotel_elevator_roller.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_001_doorlarge_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_lockers/combine_locker_doors.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_glass_back.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_c17/mailbox_01/mailbox_02_door_d.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/spawn_closet_pipe/spawn_closet_pipe.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_light_fixture_005_breakable.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_28.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/11478_6388_clam_cluster_volume_close_11478_6388_12.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a03_bumper_rear.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/interaction/anim_interact/rollingdoor/rollingdoor.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/van_a01_glass_right_mid.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_large_landscape_001a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a4_c17_zoo/entities/589_xen_cougher_trigger_1_589_11329.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/distillery/wood_crate003_bottle.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_14.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/doors_1/door_1a_40_92.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_toiletroll_001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/11632_223_xen_foliage_trigger_1_11632_223_19.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/strider/combine_strider_construction.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/doors/metal_door_001.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/lighting/flourescent_light_housing_3_open.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/tall_metal_box_1.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_doors/combine_hacking_interact_point.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interactive/washing_machine01a_loader.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/barrel_plastic_1_open.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/11478_6388_clam_cluster_volume_11478_6388_6.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_bikes/bike_wheel_02.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_power/combine_power_button.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a01_hood.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_16.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_kitchen_drawer_001b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/construction/screwdriver_1_c.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/lights/light_1.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/industrial_board_05.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_street/street_tree_2.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/zoo/tiger_skull.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/jozef_hideout/mannequin.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/choreo_vortigaunt/metal_railing_002b_64_choreo.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/weapons/vr_alyxtool/alyx_tool.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/cinder_block_elt_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_foliage/foliage_weed_002b.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/foliage/viburnum_davidii_bush_01.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_light_fixture_006b.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/pipe/pipe01_endcap02a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_bottleopener.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/misc/keycard_001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/antlion/antlion_lab_juicer.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "models/a4_destruction/a4_set_b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/industrial_board_06.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/wireset_attachment_junctionbox_c_nowires.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/misc/keycard_reader_001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_vort_pod/combine_pod_hoist.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_consoles/combine_monitor_small.vmdl",
+    "material": "electronics",
+    "prob": 90
+  },
+  {
+    "model": "models/creatures/headcrab_armored/armored_headcrab_shell_prop.vmdl",
+    "material": "flesh",
+    "prob": 90
+  },
+  {
+    "model": "models/props/radioset_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_street/street_gate_2.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/choreo_vortigaunt/industrial_rollup_door_anim_192x128_01_choreo.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_subway/scenes/monitor_hanging01.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/piano_001_blackkey_physics.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_eraser.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/chainlink_fence/chainlink_fence_gate_001_64_door.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_004c.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/vort_hideout/headcrab_hanging_med.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen_leaking_fluid_hardened_cluster_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_phone_001a_handset.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/cigarette_pack_4.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/plastic_bottle_2.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/combine/combine_prisoner_transport.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/desk_1_drawer_middle.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/electric_box_door_2_32_48_front.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/vort_hideout/headcrab_hanging_long.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props_lab/server_08.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/breakable_props/wall_clock.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_junk/trashbin02_lid.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/airduct/airduct01_32x16a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_001_drawer_c.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_junk/garbage_glassbottle001a.vmdl",
+    "material": "glass",
+    "prob": 90
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_13.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_vault_interior/combine_vault_interior_iso_cage_glass.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a01_glass_right_door.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hook_ceiling_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/weapons/vr_alyxhealth/vr_health_pen_capsule.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_1.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/lights/wall_lights_2a_lit.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/electric_winch/electric_winch.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/vort_hideout/wooden_cage.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_junk/wood_crate001a.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_structures/combine_walkway_straight02_64_alt_broken.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/truss_002_flat.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/television_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tabletop_bugspray_lid.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/5628_2844_xen_foliage_trigger_1_5628_2844_19.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/backdrop/building_project_01d.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_maintenance_paper_towels_001.vmdl",
+    "material": "fabric",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_vort_pod/combine_vort_pod_interior.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/tea_cup_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_battery_01.vmdl",
+    "material": "plastic",
+    "prob": 100
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_49.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/misc_debris/wood_3f.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/distillery/ibc_container_1a_pallet.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_signage_hotel_arrow_num_9.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/foliage/dried_grass_01a_interactive.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/props/electric_winch/electric_winch_spool_housing.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/luggage/suitcase_003.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/doors_1/door_1b_40_92.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/cinder_block_elt_3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/electric_winch/electric_winch_status_green.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/combine_cabling/zoo/shield_cable_1.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_signage_hotel_arrow_num_2.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/cigarette_003.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/misc_debris/vort_winch_pipe.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/train_tracks/track_train_crash_switch_rails.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_2.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/trapdoor001.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen/xen_blob_corner001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_distillery/entities/11554_341_xen_foliage_trigger_1_11554_341_19.vmdl",
+    "material": "organic",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/combine_dropship/dropship_cheap.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/dishwasher_soap_bottle.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/snark/snark.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen/xen_fungus_seedling01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/coffee_table_1.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/mic_button.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_lab/server_01_b.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/phonebooth_01_door.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a03_glass_windscreen.vmdl",
+    "material": "glass",
+    "prob": 90
+  },
+  {
+    "model": "models/props/choreo_vortigaunt/door_vortigaunt.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/misc_debris/wood_3b.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_c17/oildrum001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/electric_box_door_1_32_96_front.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props/plastic_crate_01.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/rat/rat_corpse.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/hotel_elevator_cable.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_barrier/combine_tri_barrier_root_l.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_16.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/truck_a01_glass_rear_window.vmdl",
+    "material": "glass",
+    "prob": 90
+  },
+  {
+    "model": "models/combine_weaponcrate.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pool_ball_8.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/barnacle_debri/barnacle_debri_skull.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_light_fixture_002_bulb.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/van_a01_hood.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/ceiling_tile_001/interior_ceiling_tile_frame_001o.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/breakable_props/sink_basin.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_tankeryard_door/combine_tankeryard_lock.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_chairs/couch_cushion_chair.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/barrel_plastic_1_lid.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/characters/eli/eli_end.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hotel/hotel_elevator.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_picture_small_landscape_003a_break.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hotel/hotel_keychain.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a03_tailgate.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_locker_001_door_c.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/coffee_maker.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/xen_infestation_v2/xen_v2_fungus.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/industrial_wood_pallet_01.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/hotel/hotel_interior_window01a_pane01a.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/piano_001_whitekey_physics.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/food/zucchini01a.vmdl",
+    "material": "food",
+    "prob": 85
+  },
+  {
+    "model": "models/props/cinder_block_elt_6.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/airduct/airduct01_16x16a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/distillery/plastic_crate_01_bottle.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_maintenance_paper_towels_003.vmdl",
+    "material": "fabric",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_consoles/lever_main_slide.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_deco_poster_card_001c.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/advisor/advisor_mesh_second.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props/misc_debris/wood_2c.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_junk/garbage_bag_2.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/construction/portapotty_toilet_seat.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/industrial/industrial_board_02.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/backdrop/backdrop_building_destroyed_chunk01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/vort_hideout/headcrab_hanging_short.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_distillery/entities/11460_4507_clam_cluster_volume_a_11460_4507_29.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/interaction/anim_interact/radio/radioset_interactable.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_kitchen_drawer_001c.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/hologram_fx/logo_text_face_holo.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_interiors/waterbottle.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_lab/server_02.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/jozef_hideout/gnome_magnet.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/lighting/flourescent_light_housing_2_open.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_bench_001c.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/combine_cabling/hotel_interior/power_door_cable_02a.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props_combine/combine_mini_light_01.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_furniture_cabinet_004_door_a.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen/xen_barrel_mush_top01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pool_triangle_001.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_lockers/combine_locker01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a01_bumper_rear.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_25.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  { "model": "models/props/can_2.vmdl", "material": "unknown", "prob": 20 },
+  {
+    "model": "models/props/food/bread01a.vmdl",
+    "material": "food",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_002b.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/vents_cap_section_32_32.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/brick_shortest_single_3.vmdl",
+    "material": "brick",
+    "prob": 85
+  },
+  {
+    "model": "models/props/c17/antenna01a_body.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "maps/a3_hotel_lobby_basement/entities/bloater_closet_trigger_1_2_5296.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hook_support_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/xen_infestation/boomerplant_01.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_soap_001c.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/bucket_2_lid.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/weapons/vr_grenade/grenade_handle.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/distillery/battery_cable_03.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen/xen_coralear03.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_signage_hotel_arrow_num_5.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/rubble_piece_12.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_plant_palm_leaf_dead_small.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/van_a01_glass_windshield.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/hoist_control_button_up.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/barrel_plastic_1.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/items/crafting_metal/resin_puck03.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_34.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pool_ball_11.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_0.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen/xen_pollip001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_floor_lamp_001b_frame.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props/traffic_drum/traffic_drum.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/chair_plastic_1.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/foliage/tall_grass_02_interactive.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "models/props/cinder_block_elt_7.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/van_a01_tire.vmdl",
+    "material": "rubber",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_bottle_001c.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_printer/combine_crafting_station.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/creatures/vortigaunt/vortigaunt_tunnels.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a03_hood.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/xen/xen_web_flat_segment008.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/silverware_spoon_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_c17/computer01_keyboard.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/pose_side_template.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/hotel/food_container_1.vmdl",
+    "material": "plastic",
+    "prob": 85
+  },
+  {
+    "model": "models/props/jerrican_1.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_bathroom_soap_001a.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/health_charger/combine_health_charger_guage.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/sandbags/sandbag_single_1_standing.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/electric_winch/electric_winch_progress_on.vmdl",
+    "material": "metal",
+    "prob": 90
+  },
+  {
+    "model": "models/props_combine/combine_vault_interior/candel_grab_l.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/destruction_objects/concrete_fracture_baked_leg_impact.vmdl",
+    "material": "concrete",
+    "prob": 85
+  },
+  {
+    "model": "models/weapons/vr_ammo/shotgun_shell_ammo_box.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a01_bumper_front.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_trainstation/train001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/vintage_radio.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/interaction/anim_interact/citizen_switch_slide/citizen_switch_slide.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_combine/combine_consoles/combine_breenscreen_recruit_introworld2.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a03_grille.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/xen/xen_foam_wall001.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/breakable_props/toilet_seat_cover.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_31.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a3_hotel_interior_rooftop/entities/7_5374_grenade_spawner_trigger_7_5374_3.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_barge_27.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "maps/a4_c17_tanker_yard/entities/@bloater_elevator_trigger_19_6248_157.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_combine/combine_structures/combine_vault_act4.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/interactive/truck_a01_door_left_interactive.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/industrial/industrial_wood_pallet_02_dmg_01.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/chair_wood_1.vmdl",
+    "material": "wood",
+    "prob": 90
+  },
+  {
+    "model": "models/props/max/oildrum/oildrum.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/interior_deco/interior_lamp_wall_sconce_001_shade.vmdl",
+    "material": "electronics",
+    "prob": 85
+  },
+  {
+    "model": "models/creatures/barnacle/barnacle.vmdl",
+    "material": "flesh",
+    "prob": 85
+  },
+  {
+    "model": "models/props_vehicles/car_sedan_a03_glass_l_rear.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props_foliage/foliage_weed_001a.vmdl",
+    "material": "organic",
+    "prob": 90
+  },
+  {
+    "model": "maps/a3_hotel_interior_rooftop/entities/bloater_bathroom_trigger_7_5381.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props/bucket_1_nohandle.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/architecture/train_tunnels/cardboard_messages/sp_vort_eye_hall_3.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/interior_furniture/interior_pool_ball_9.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/distillery/freezer_cable_01.vmdl",
+    "material": "metal",
+    "prob": 85
+  },
+  {
+    "model": "models/props/distillery/bottle_vodka.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/hotel/tray.vmdl",
+    "material": "unknown",
+    "prob": 20
+  },
+  {
+    "model": "models/props_vehicles/car_hatchback_b01_glass_l_rear.vmdl",
+    "material": "glass",
+    "prob": 85
+  },
+  {
+    "model": "models/props/choreo_dream/dream_plank_small_a.vmdl",
+    "material": "wood",
+    "prob": 85
+  },
+  {
+    "model": "models/props/plastic_container_1.vmdl",
+    "material": "plastic",
+    "prob": 90
+  }
+]
