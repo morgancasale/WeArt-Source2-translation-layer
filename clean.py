@@ -1,11 +1,11 @@
 import json
 import re
-import pandas as pd
+#import pandas as pd
 
 models = json.load(open("updated_model_materials.json"))
 simple_materials = [
     ("glass","glass"), 
-    ("wood", "wood"), 
+    ("wood", "wood"),
     ("concrete", "concrete"), 
     ("clay", "clay"), 
     ("metal", "metal"), 
@@ -47,7 +47,8 @@ complex_materials = [
     ("(car|van).+trunk", "metal"),
     ("(car|van).+tire", "rubber"),
     ("(car|van).+tailgate", "metal"),
-    ("(car|van).+hood", "metal")
+    ("(car|van).+hood", "metal"),
+    ("_board_", "wood"),
 ]
 
 # Changes models names containing a regex material name
