@@ -1,6 +1,8 @@
 import numpy as np
 import struct
 
+import win32file
+
 from weartsdk.WeArtHapticObject import WeArtHapticObject
 from weartsdk.WeArtCommon import HandSide, ActuationPoint, CalibrationStatus, TextureType
 from weartsdk.WeArtTemperature import WeArtTemperature
@@ -86,6 +88,25 @@ def buildPipePacket(flexion, splay):
     data = flexion + splay + [joyX, joyY] + booleans + [trgValue]
 
     return struct.pack(STRUCT_FORMAT, *data)
+
+
+def sendPacket(pipe_path, packet):
+    try:
+        pipe = win32file.CreateFile(
+            pipe_path,
+            win32file.GENERIC_READ | win32file.GENERIC_WRITE,
+            0,
+            None,
+            win32file.OPEN_EXISTING,
+            0,
+            None
+        )
+
+        win32file.WriteFile(pipe, packet)
+        win32file.CloseHandle(pipe)
+    except Exception as e:
+        print("An error occurred while sending the packet to pipe: ", e)
+
 
 def printTrackingInfo(flexion, splay):
     finger_names = ["Thumb", "Index", "Middle", "Ring", "Pinky"]
