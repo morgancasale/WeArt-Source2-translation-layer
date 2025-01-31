@@ -54,7 +54,7 @@ def getSplayOG_to_WeArt(fingerTracking, max_analog_value_OpenGloves):
 
     return OG_splay
 
-def builPipePacket(flexion, splay):
+def buildPipePacket(flexion, splay):
     # OpenGloves SDK:
     # // "\\.\pipe\vrapplication\input\glove\v2\<left/right>"
     # struct InputData {

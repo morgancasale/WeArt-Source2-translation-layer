@@ -66,7 +66,7 @@ while True:
 
     # Send the flexion and splay values to the OpenGloves driver
     with open(pipe_path, "wb") as pipe:
-        pipe.write(builPipePacket(flexion, splay))
+        pipe.write(buildPipePacket(flexion, splay))
 
     # printTrackingInfo(flexion, splay)
 
