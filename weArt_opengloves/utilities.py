@@ -81,11 +81,11 @@ def buildPipePacket(flexion, splay):
     STRUCT_FORMAT = "<20f5f2f10?f"
 
     joyX, joyY = 0, 0
-    booleans = [False]*8
+    booleans = [False]*10
     trgValue = 0
 
     # Combine all the data into a single list
-    data = flexion + splay + [joyX, joyY] + booleans + [trgValue]
+    data = [item for sublist in flexion for item in sublist] + splay + [joyX, joyY] + booleans + [trgValue]
 
     return struct.pack(STRUCT_FORMAT, *data)
 
