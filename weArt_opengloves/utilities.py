@@ -29,6 +29,7 @@ def getClosuresOG_to_WeArt(fingerTracking, max_analog_value_OpenGloves):
     # WeArt SDK:
     # The closure value ranges from 0 (opened) to 1 (closed).
     OG_closure = np.interp(WA_closure, [0, 1], [0, max_analog_value_OpenGloves])
+    OG_closure = int(OG_closure)
     print(f"WAClosure --> OGClosure: {WA_closure} --> {OG_closure}")
 
     # OpenGloves SDK:
@@ -53,6 +54,7 @@ def getSplayOG_to_WeArt(fingerTracking, max_analog_value_OpenGloves):
     # The abduction value ranges from 0 (finger near the hand's central axis) 
     # to 1 (finger far from the hand central axis).
     OG_splay = np.interp(WA_splay, [0, 1], [max_analog_value_OpenGloves/2, 0])
+    OG_splay = int(OG_splay)
     print(f"WASplay --> OGSplay: {WA_splay} --> {OG_splay}")
 
     return OG_splay
@@ -110,16 +112,17 @@ def sendPipePacket(pipe_path, packet):
 
 def buildCOMPacket(flexion, splay, triggerThreshold):
     #trigger = (flexion[1][0] - triggerThreshold) if flexion[1][0] > triggerThreshold else 0
-    trigger = (flexion[1][0] > triggerThreshold)
+    trigger = int(flexion[1][1] > triggerThreshold)
+    print(f"Trigger state: {trigger}")
     joyX, joyY = 0, 0
     joyBtn = False
 
     # Packet format found at 
     # https://github.com/LucidVR/opengloves-driver/wiki/Driver-Input#through-an-external-device
     packet = f"A{flexion[0][0]}B{flexion[1][0]}C{flexion[2][0]}D{flexion[3][0]}E{flexion[4][0]}"
-    packet += f"AB{splay[0]}BB{splay[1]}CB{splay[2]}DB{splay[3]}EB{splay[4]}"
-    packet += f"F{joyX}G{joyY}H{joyBtn}"
-    packet += f"I{trigger}"
+    #packet += f"AB{splay[0]}BB{splay[1]}CB{splay[2]}DB{splay[3]}EB{splay[4]}"
+    #packet += f"F{joyX}G{joyY}H{joyBtn}"
+    packet += f"I{trigger}" + "\n"
 
     return packet
 

@@ -3,13 +3,13 @@ import logging
 from utilities import *
 
 max_analog_value_OpenGloves = 255
-triggerThreshold = 0.5
+triggerThreshold = max_analog_value_OpenGloves/2
 
 # Connection to the OpenGloves driver settings
 communication_through_pipes = False
 
 pipe_path = "\\\\.\\pipe\\vrapplication\\input\\glove\\v2\\right"
-COM_port = "COM5"
+COM_port = "COM8" # set COM9 (COMn+1) in the openGloves driver
 baud_rate = 115200
 
 
@@ -38,7 +38,7 @@ print("Calibration completed!")
 # Stop calibration
 client.StopCalibration()
 
-time.sleep(5)
+time.sleep(2)
 
 fingers_act_points = [ActuationPoint.Thumb, ActuationPoint.Index, ActuationPoint.Middle]
 
@@ -47,7 +47,7 @@ fingersTracking = [WeArtThimbleTrackingObject(HandSide.Right, point) for point i
 [client.AddThimbleTracking(fingerTracking) for fingerTracking in fingersTracking]
 print("Added finger tracking for each finger!")
 
-time.sleep(5)
+time.sleep(2)
 
 ser = None
 
@@ -79,7 +79,7 @@ while True:
     
     flexion = flexion + [flexion[2]]*2
 
-    splay += [max_analog_value_OpenGloves/2]*4
+    splay += [int(max_analog_value_OpenGloves/2)]*4
 
     if communication_through_pipes:
         # Send the flexion and splay values to the OpenGloves driver through named pipes
@@ -90,4 +90,4 @@ while True:
         
     # printTrackingInfo(flexion, splay)
 
-    time.sleep(1)
+    time.sleep(0.1)
