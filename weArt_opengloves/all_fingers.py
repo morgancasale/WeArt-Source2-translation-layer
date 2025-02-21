@@ -3,8 +3,15 @@ import logging
 from utilities import *
 
 max_analog_value_OpenGloves = 255
+triggerThreshold = 0.5
+
+# Connection to the OpenGloves driver settings
+communication_through_pipes = False
 
 pipe_path = "\\\\.\\pipe\\vrapplication\\input\\glove\\v2\\right"
+COM_port = "COM5"
+baud_rate = 115200
+
 
 # Create a WeArtClient object
 client = WeArtClient(WeArtCommon.DEFAULT_IP_ADDRESS, WeArtCommon.DEFAULT_TCP_PORT, log_level=logging.INFO)
@@ -42,6 +49,16 @@ print("Added finger tracking for each finger!")
 
 time.sleep(5)
 
+ser = None
+
+if not communication_through_pipes:
+    try:
+        ser = serial.Serial(COM_port, baud_rate, timeout=1)
+        print("Serial port connected!")
+    except:
+        print("Serial port connection failed!")
+        exit()
+
 while True:
     flexion = []
     splay = []
@@ -64,11 +81,13 @@ while True:
 
     splay += [max_analog_value_OpenGloves/2]*4
 
-    # Send the flexion and splay values to the OpenGloves driver
-    # with open(pipe_path, "wb") as pipe:
-    #     pipe.write(buildPipePacket(flexion, splay))
-    sendPacket(pipe_path, buildPipePacket(flexion, splay))
-
+    if communication_through_pipes:
+        # Send the flexion and splay values to the OpenGloves driver through named pipes
+        sendPipePacket(pipe_path, buildPipePacket(flexion, splay))
+    else:
+        # Send the flexion and splay values to the OpenGloves driver through COM port
+        sendCOMPacket(ser, buildCOMPacket(flexion, splay, triggerThreshold))
+        
     # printTrackingInfo(flexion, splay)
 
     time.sleep(1)

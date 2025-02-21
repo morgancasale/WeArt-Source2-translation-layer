@@ -1,5 +1,6 @@
 import numpy as np
 import struct
+import serial
 
 import win32file
 
@@ -90,7 +91,7 @@ def buildPipePacket(flexion, splay):
     return struct.pack(STRUCT_FORMAT, *data)
 
 
-def sendPacket(pipe_path, packet):
+def sendPipePacket(pipe_path, packet):
     try:
         pipe = win32file.CreateFile(
             pipe_path,
@@ -107,6 +108,28 @@ def sendPacket(pipe_path, packet):
     except Exception as e:
         print("An error occurred while sending the packet to pipe: ", e)
 
+def buildCOMPacket(flexion, splay, triggerThreshold):
+    #trigger = (flexion[1][0] - triggerThreshold) if flexion[1][0] > triggerThreshold else 0
+    trigger = (flexion[1][0] > triggerThreshold)
+    joyX, joyY = 0, 0
+    joyBtn = False
+
+    # Packet format found at 
+    # https://github.com/LucidVR/opengloves-driver/wiki/Driver-Input#through-an-external-device
+    packet = f"A{flexion[0][0]}B{flexion[1][0]}C{flexion[2][0]}D{flexion[3][0]}E{flexion[4][0]}"
+    packet += f"AB{splay[0]}BB{splay[1]}CB{splay[2]}DB{splay[3]}EB{splay[4]}"
+    packet += f"F{joyX}G{joyY}H{joyBtn}"
+    packet += f"I{trigger}"
+
+    return packet
+
+
+def sendCOMPacket(ser, packet):
+    try:
+        ser.write(packet.encode())
+        ser.flush()
+    except Exception as e:
+        print("An error occurred while sending the packet to COM port: ", e)
 
 def printTrackingInfo(flexion, splay):
     finger_names = ["Thumb", "Index", "Middle", "Ring", "Pinky"]
