@@ -1,3 +1,16 @@
+--[[
+    Installation
+    - Create the directory game/hlvr/vscripts/scripts
+
+    - Copy this script into this new folder.
+
+    - If you want to run it automatically add a "script_reload_code your_script.lua" to hlvr/cfg/skill.cfg or some or CFG that is automatically loaded.
+
+    - Load up the game, and you're done!
+
+    - To run it manually open the console in game and run "script_reload_code your_script.lua"
+]]
+
 local modelname = "models/hands/alyx_hand_right.vmdl"
 local classname = "hl_prop_vr_hand"
 
